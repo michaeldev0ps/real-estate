@@ -1,26 +1,25 @@
-# Real Estate Portfolio (starter)
+﻿# Real Estate Portfolio
 
-This is a minimal Next.js App Router starter scaffold for a real estate portfolio demo.
+A modern real estate portfolio website built with Next.js and Tailwind CSS. It showcases featured properties, agent profiles, and contact pathways with a clean, responsive design suitable for public marketing and lead capture.
 
-What I added:
+## Highlights
+- Marketing-focused landing page with featured listings
+- Dedicated pages for properties, about, and contact
+- Reusable UI components and mock data sources
+- Fully responsive layout
 
-- App Router pages: `/app/page.tsx`, `/app/properties`, `/app/about`, `/app/contact`
-- Components: `Hero`, `Navbar`, `Footer`, `PropertyCard`, `ContactForm`, `MapEmbed`
-- Mock data in `/data` (`mockProperties.ts`, `mockAgents.ts`)
-- Tailwind config and global styles
+## Tech Stack
+- Next.js (App Router)
+- React
+- Tailwind CSS
+- TypeScript
 
-Next steps (run locally):
-
-1. Install dependencies
-
+## Local Development
 ```bash
 npm install
-```
-
-2. Start dev server
-
-```bash
 npm run dev
 ```
 
-Optional: install and integrate `shadcn/ui` following its docs and add images to `/public` if desired.
+---
+
+Copyright (c) 2026 Michaeldev0ps. All rights reserved.
